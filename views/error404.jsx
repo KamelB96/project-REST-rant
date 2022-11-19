@@ -7,6 +7,7 @@ return(
         <main>
             <h1>404: PAGE NOT FOUND</h1>
             <p>Oops, sorry, we can't find this page!</p>
+            <img src="/images/jamie-haughton-Z05GiksmqYU-unsplash.jpg" alt="monkey" height="500px"></img>
         </main>
     </Def>
 )
